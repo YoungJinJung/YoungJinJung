@@ -1,7 +1,7 @@
 # YoungJinJung 
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJinJung&theme=flag-india&count_private=true&show_icons=true&line_height=30include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJinJung&theme=flag-india&count_private=true&show_icons=true&line_height=30include_all_commits=true&hide=prs,issues,contribs" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungJinJung" alt="YoungJinJung" />
 </p>
 
