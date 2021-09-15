@@ -1,10 +1,10 @@
-# YoungJinJung 👯
+# Yeonju 👯
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJinJung&show_icons=true&line_height=30&theme=flag-india&count_private=true&include_all_commits=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jess-yon&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&count_private=true&include_all_commits=true" />
   </a>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungJinJung&theme=flag-india" alt="YoungJinJung" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jess-yon&theme=flag-india" alt="jess-yon" />
 </p>
 
 <br />
@@ -27,12 +27,19 @@
 </p>
 
 <br />
+
+
+## ⚡ fun facts ##
+- **Major?**  *Airline Service Management, English Language & Literature, and Media Arts*
+- **Experience?**  *about 5 years in Financial Accounting*
+- and I'm **ENFP** ✨
+
 <br />
 
 
 ## 🧚 more about me ##
 <p align="center">
-  <a href="mailto:yj.jung5078@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yj.jung5078@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+  <a href="mailto:jessy2yon@gmail.com"> <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jessy2yon@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   &nbsp;
   <a href="https://b.link/yessy-til"> <img src="https://img.shields.io/badge/TIL-000000?style=flat-square&logo=Notion&logoColor=white&link=https://b.link/yessy-til" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -44,7 +51,7 @@
 
 
 <!--
-**YoungJinJung/YoungJinJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jess-yon/jess-yon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
