@@ -3,7 +3,6 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJinJung&theme=flag-india&count_private=true&show_icons=true&line_height=30&hide=issues,contribs" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungJinJung" alt="YoungJinJung" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJinJung&layout=compact" />
 </p>
 
 <br />
