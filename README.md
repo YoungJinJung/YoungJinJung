@@ -3,6 +3,7 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJinJung&theme=flag-india&count_private=true&show_icons=true&line_height=30&hide=issues,contribs" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungJinJung" alt="YoungJinJung" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoungJinJung&layout=compact" />
 </p>
 
 <br />
@@ -40,7 +41,7 @@
 
 
 <!--
-**jess-yon/jess-yon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YoungjinJung/YoungjinJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
