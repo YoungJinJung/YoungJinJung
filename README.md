@@ -2,7 +2,7 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=YoungJinJung&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungJinJung" alt="YoungJinJung" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungJinJung&theme=flag-india" alt="YoungJinJung" />
 </p>
 
 <br />
