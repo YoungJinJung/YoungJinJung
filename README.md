@@ -1,10 +1,16 @@
 # YoungJinJung
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYoungJinJung&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%2b6afd&title=GITHUB&edge_flat=false)](https://github.com/YoungJinJung)
 
-<p align="center">
-  <img align="center" src="https://readme-stats.clckblog.space/api?username=YoungJinJung&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&include_all_commits=true&count_private=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YoungJinJung&theme=flag-india" alt="YoungJinJung" />
-</p>
+[![YoungJinJung's GitHub stats](https://readme-stats.clckblog.space/api?username=YoungJinJung&hide=stars,issues&show_icons=true&line_height=30&theme=flag-india&include_all_commits=true&count_private=true)](https://github.com/YoungJinJung)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=YoungJinJung&theme=blue)](https://git.io/streak-stats)  
+  
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoungJinJung&theme=github)  
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoungJinJung&theme=github&exclude={exclude})  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chaaany&theme=YoungJinJung&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoungJinJung&theme=github)   
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoungJinJung&theme=Chaaany&utcOffset={utcOffset})
 <br />
 
 
