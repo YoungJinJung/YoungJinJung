@@ -17,9 +17,6 @@ I enjoy solving large-scale technical challenges and modernizing legacy systems.
 ![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoungJinJung&theme=github_dark)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YoungJinJung&theme=github_dark" alt="GitHub stats" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YoungJinJung&theme=github_dark&utcOffset=9" alt="Commit time" width="49%" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoungJinJung&theme=github_dark" alt="Top languages by repository" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoungJinJung&theme=github_dark" alt="Top languages by commit" width="49%" />
 
 </div>
